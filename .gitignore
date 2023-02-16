@@ -1,0 +1,27 @@
+.idea
+
+# backend
+
+backend/.idea
+backend/nbproject
+backend/.buildpath
+backend/.project
+backend/.settings
+backend/Thumbs.db
+backend/vendor
+backend/composer.phar
+backend/composer.lock
+backend/.DS_Store
+backend/phpunit.phar
+backend/phpunit.xml
+
+backend/tests/_output/*
+backend/tests/_support/_generated
+backend//.vagrant
+
+# wrapper
+
+wrapper/.idea
+wrapper/.env
+wrapper/docker/db/pg/data/*
+wrapper/docker/logs
