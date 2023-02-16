@@ -2,6 +2,8 @@
 
 git clone git@github.com:dralexsand/parserxls.git
 
+cd parserxls
+
 cd wrapper
 
 cp .env.dist .env
