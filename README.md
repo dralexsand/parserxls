@@ -1,6 +1,6 @@
 ```
 
-git clone ...
+git clone git@github.com:dralexsand/parserxls.git
 
 cd wrapper
 
